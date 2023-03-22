@@ -93,3 +93,15 @@ Some possible feature engineering we may have to do based on Prior Work research
 
 •	Mental health is a contributing factor, hence increasing diagnostic services as well as support services could decrease suicides due to mental health issues such as depression, PTSD, etc.
 
+## References
+
+[1]. Reeves, A., Stuckler, D., McKee, M., Gunnell, D., Chang, S. S., & Basu, S. (2012). Increase in state suicide rates in the USA during economic recession. The Lancet, 380(9856), 1813-1814.
+[2]. Ku, B. S., Li, J., Lally, C., Compton, M. T., & Druss, B. G. (2021). Associations between mental health shortage areas and county-level suicide rates among adults aged 25 and older in the USA, 2010 to 2018. General hospital psychiatry, 70, 44-50.
+[3]. Kessler RC, Berglund P, Borges G, Nock M, Wang PS. Trends in Suicide Ideation, Plans, Gestures, and Attempts in the United States, 1990-1992 to 2001-2003. JAMA. 2005;293(20):2487–2495. 
+[4]. Ian H. Steele M.D.,Natasha Thrower M.D.,Paul Noroian M.D.,Fabian M. Saleh M.D. Understanding Suicide Across the Lifespan: A United States Perspective of Suicide Risk Factors, Assessment & Management
+[5]. Pritchard C, Hansen L, Dray R, Sharif J. USA Suicides Compared to Other Western Countries in the 21st Century: Is there a Relationship with Gun Ownership? Arch Suicide Res. 2022 Jan 24:1-13. doi: 10.1080/13811118.2021.1974624. Epub ahead of print. PMID: 35068366.
+[6]. Martinez-Ales G, Hernandez-Calle D, Khauli N, Keyes KM. Why Are Suicide Rates Increasing in the United States? Towards a Multilevel Reimagination of Suicide Prevention. Curr Top Behav Neurosci. 2020; 46:1-23. doi: 10.1007/7854_2020_158. PMID: 32860592; PMCID: PMC8699163.
+[7]. “Gun Laws by State: Best States for Gun Owners (2022).” AZ Defenders, 2 Feb. 2022, https://www.az-defenders.com/best-states-for-gun-owners/. “Gun Laws by State: Best States for Gun Owners (2022).” AZ Defenders, 2 Feb. 2022, https://www.az-defenders.com/best-states-for-gun-owners/.
+[8]. "Facts About Suicide | Suicide | CDC." https://www.cdc.gov/suicide/facts/index.html, Accessed 29 Oct. 2022.
+
+
