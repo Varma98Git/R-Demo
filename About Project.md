@@ -92,4 +92,4 @@ Some possible feature engineering we may have to do based on Prior Work research
 •	State gun laws seem to affect access, which in turn is a known factor for most suicides. Hence, stricter gun laws (based on background checks, etc.) could limit access and hence could prevent suicide attempts by non-eligible gun owners. 
 
 •	Mental health is a contributing factor, hence increasing diagnostic services as well as support services could decrease suicides due to mental health issues such as depression, PTSD, etc.
-![image](https://user-images.githubusercontent.com/97752840/227057964-6e7d9fd0-1031-44f3-be63-9adb70f59d34.png)
+
